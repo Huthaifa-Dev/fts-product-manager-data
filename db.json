@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "id": "New date",
+      "name": "New date",
+      "description": "",
+      "createdAt": 1665382877158,
+      "updatedAt": 1665382877158
+    },
+    {
+      "id": "Huthaifa Salman",
+      "name": "Huthaifa Salman",
+      "description": "",
+      "createdAt": 1665383395771,
+      "updatedAt": 1665383395771
+    },
+    {
+      "id": "THis is cooooooool",
+      "name": "THis is cooooooool",
+      "description": "",
+      "createdAt": 1665383411985,
+      "updatedAt": 1665383411985
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Description 1",
+      "price": 100,
+      "category": "New date",
+      "expire": 1665382877158,
+      "code": "123",
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "tax": 0,
+      "stock": 0
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Description 2",
+      "price": 200,
+      "category": "New date",
+      "expire": 1665382877158,
+      "code": "123",
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "tax": 0,
+      "stock": 0
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Description 3",
+      "price": 300,
+      "category": "New date",
+      "expire": 1665382877158,
+      "code": "123",
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "tax": 0,
+      "stock": 0
+    }
+  ],
+  "carts": [
+    {
+      "id": "1",
+      "total": 0,
+      "createdAt": 1665382877158,
+      "items": []
+    },
+    {
+      "id": "2",
+      "total": 0,
+      "createdAt": 1665382877158,
+      "items": []
+    },
+    {
+      "id": "3",
+      "createdAt": 1666331501647,
+      "items": []
+    }
+  ]
+}
